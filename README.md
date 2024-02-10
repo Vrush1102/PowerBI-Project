@@ -1,14 +1,14 @@
 # AirBnB Dashboard
 
-# Project URL: 
+## Project URL: 
 https://app.powerbi.com/groups/me/reports/3c7499d7-fea7-44f6-86e1-5870befe09f4/ReportSection?experience=power-bi&clientSideAuth=0
 
 Project Description: - The primary objective is to analyze Airbnb data to reveal insights into user experiences and satisfaction levels with the numerous listed stays, all accomplished using Power BI.
 
 ## Tools/Software:
-PowerBI
-Python
-Microsoft Excel 
+* PowerBI
+* Python
+* Microsoft Excel 
 
 ## Tasks:
 *  Define Dashboard Objectives
